@@ -16,6 +16,8 @@ In this game you have to put the keys in order in a minimum of moves.
 ## General Info
 
 I added this game in my portfolio, wich is a php project.
+You can see it at:
+[portfolio.hugo-machado.com](https://portfolio.hugo-machado.com)
 
 I include the html file in the template and add a link for the css sheet and a script tag for the js file
 ## Technologies
