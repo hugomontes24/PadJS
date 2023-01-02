@@ -120,6 +120,7 @@
   padding: 0.5em 0.3em;
   border-radius: 5px;
   transition: 0.3s ease;
+  max-width: 10.7em;
 }
 .modal-container .win {
   background-color: rgba(0, 255, 255, 0.6901960784);
